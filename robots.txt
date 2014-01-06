@@ -1,0 +1,8 @@
+
+Sitemap: http://hogg0019.site44.com/dsn1543/project-1/sitemap.xml
+
+User-agent: *
+
+Disallow: /folder-name-that-we-dont-want-to-show/
+Disallow: /tmp/
+Disallow: /assets/

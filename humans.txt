@@ -1,0 +1,18 @@
+/* TEAM */
+
+Designer & Developer: Brittany Hogg
+Twitter: @HoggBrittany
+Location: Ottawa, Canada
+
+
+
+/* THANKS */
+
+Thank you to Tiffany Tse for an amazing semester and this awesome assignment.
+
+
+/* SITE */
+Last update: 2013/11/15
+Standards: HTML5, CSS3
+Components: Modernizr, Jquery, etc...
+Software: Adobe, Livereload, Sublime Text 2
